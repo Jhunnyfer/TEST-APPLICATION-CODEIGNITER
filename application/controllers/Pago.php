@@ -44,7 +44,7 @@ class Pago extends CI_Controller
             $tranKey   = base64_encode(sha1($nonce . $seed . $secretKey, true));
 
             $request['auth'] = array(
-                'login'   => '6dd490faf9cb87a9862245da41170ff2',
+                'login'   => $this->config->item('login'),
                 'seed'    => $seed,
                 'nonce'   => $nonce,
                 'tranKey' => $tranKey,
