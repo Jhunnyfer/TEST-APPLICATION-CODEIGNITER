@@ -1,0 +1,42 @@
+[24-Apr-2019 16:10:02 America/Chicago] PHP Fatal error:  Call to undefined method Inicio::layout() in /home3/psycho/reportes.in/application/controllers/Inicio.php on line 83
+[05-May-2019 22:44:19 America/Chicago] PHP Fatal error:  Function name must be a string in /home3/psycho/reportes.in/application/views/Producto/create_Producto.php on line 95
+[05-May-2019 22:44:22 America/Chicago] PHP Fatal error:  Function name must be a string in /home3/psycho/reportes.in/application/views/Producto/create_Producto.php on line 95
+[06-May-2019 02:14:39 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Producto.php on line 316
+[06-May-2019 02:14:57 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Producto.php on line 316
+[06-May-2019 02:15:35 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Producto.php on line 316
+[07-May-2019 10:18:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home3/psycho/reportes.in/application/views/Usuario/create_Usuario.php on line 92
+[08-May-2019 15:46:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'account' (T_STRING), expecting ',' or ';' in /home3/psycho/reportes.in/application/views/header_dashboard.php on line 34
+[08-May-2019 15:46:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'account' (T_STRING), expecting ',' or ';' in /home3/psycho/reportes.in/application/views/header_dashboard.php on line 34
+[08-May-2019 15:46:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'account' (T_STRING), expecting ',' or ';' in /home3/psycho/reportes.in/application/views/header_dashboard.php on line 34
+[08-May-2019 15:47:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'account' (T_STRING), expecting ',' or ';' in /home3/psycho/reportes.in/application/views/header_dashboard.php on line 34
+[08-May-2019 15:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'account' (T_STRING), expecting ',' or ';' in /home3/psycho/reportes.in/application/views/header_dashboard.php on line 34
+[08-May-2019 15:47:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'account' (T_STRING), expecting ',' or ';' in /home3/psycho/reportes.in/application/views/header_dashboard.php on line 34
+[10-May-2019 10:21:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home3/psycho/reportes.in/application/controllers/Producto.php on line 369
+[22-May-2019 15:01:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/psycho/reportes.in/application/views/Pedido/list_Pedido.php on line 82
+[23-May-2019 13:12:03 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/psycho/reportes.in/application/controllers/Inicio.php on line 180
+[23-May-2019 14:31:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/psycho/reportes.in/application/views/Pedido/list_Pedido.php on line 28
+[23-May-2019 14:31:21 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home3/psycho/reportes.in/application/views/Pedido/list_Pedido.php on line 28
+[01-Jun-2019 12:39:11 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/psycho/reportes.in/application/views/Pedido/detail_order.php on line 101
+[01-Jun-2019 23:18:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'funciton' (T_STRING), expecting variable (T_VARIABLE) in /home3/psycho/reportes.in/application/controllers/Pedido.php on line 352
+[01-Jun-2019 23:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'funciton' (T_STRING), expecting variable (T_VARIABLE) in /home3/psycho/reportes.in/application/controllers/Pedido.php on line 352
+[02-Jun-2019 23:13:34 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/psycho/reportes.in/application/views/Pedido/send_mail.php on line 81
+[02-Jun-2019 23:13:43 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/psycho/reportes.in/application/views/Pedido/send_mail.php on line 81
+[02-Jun-2019 23:13:54 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/psycho/reportes.in/application/views/Pedido/send_mail.php on line 81
+[05-Jun-2019 18:41:06 America/Chicago] PHP Fatal error:  Call to a member function count_all_rows() on a non-object in /home3/psycho/reportes.in/application/controllers/Envio.php on line 232
+[05-Jun-2019 18:42:22 America/Chicago] PHP Fatal error:  Call to a member function count_all_rows() on a non-object in /home3/psycho/reportes.in/application/controllers/Envio.php on line 232
+[05-Jun-2019 18:42:31 America/Chicago] PHP Fatal error:  Call to a member function count_all_rows() on a non-object in /home3/psycho/reportes.in/application/controllers/Envio.php on line 232
+[05-Jun-2019 18:43:16 America/Chicago] PHP Fatal error:  Call to a member function count_all_rows() on a non-object in /home3/psycho/reportes.in/application/controllers/Envio.php on line 232
+[05-Jun-2019 18:46:55 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Envio.php on line 96
+[07-Jun-2019 15:59:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting '&' or variable (T_VARIABLE) in /home3/psycho/reportes.in/application/models/Producto_model.php on line 119
+[07-Jun-2019 15:59:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting '&' or variable (T_VARIABLE) in /home3/psycho/reportes.in/application/models/Producto_model.php on line 119
+[07-Jun-2019 15:59:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting '&' or variable (T_VARIABLE) in /home3/psycho/reportes.in/application/models/Producto_model.php on line 119
+[10-Jun-2019 20:54:12 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Tienda.php on line 285
+[10-Jun-2019 20:54:30 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Tienda.php on line 285
+[10-Jun-2019 20:54:48 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Tienda.php on line 285
+[10-Jun-2019 20:54:55 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Tienda.php on line 285
+[10-Jun-2019 20:55:32 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Tienda.php on line 285
+[10-Jun-2019 20:57:28 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Tienda.php on line 285
+[12-Jun-2019 16:47:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home3/psycho/reportes.in/application/controllers/Inicio.php on line 74
+[12-Jun-2019 16:48:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home3/psycho/reportes.in/application/controllers/Inicio.php on line 74
+[14-Jun-2019 00:46:29 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Envio.php on line 282
+[14-Jun-2019 00:46:42 America/Chicago] PHP Fatal error:  Call to a member function findByPk() on a non-object in /home3/psycho/reportes.in/application/controllers/Envio.php on line 282
